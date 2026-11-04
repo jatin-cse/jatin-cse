@@ -154,23 +154,17 @@ A VS Code extension project exploring developer cognition and programming-relate
 
 <!-- ================= GITHUB STATISTICS ================= -->
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jatin-cse&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin-cse&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-</div>
-
 ---
 
-## 🏆 Contribution Activity
+## GitHub Activity
+
+My repositories, projects, and development contributions are available on my GitHub profile.
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jatin-cse&theme=tokyo-night&hide_border=true)](https://github.com/jatin-cse)
+[![GitHub Profile](https://img.shields.io/badge/View_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatin-cse)
+
+[![Repositories](https://img.shields.io/badge/Explore_Repositories-0052CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatin-cse?tab=repositories)
 
 </div>
 
@@ -192,12 +186,10 @@ A VS Code extension project exploring developer cognition and programming-relate
 
 <div align="center">
 
-### 💡 My Developer Philosophy
+<hr>
 
-*"Think clearly. Code thoughtfully. Build purposefully"*
+<p align="center">
+  <i>Think clearly. Code thoughtfully. Build purposefully.</i>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jatin-cse&style=for-the-badge&color=0078D4)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:0052A4,100:00C6FF&height=100&section=footer" width="100%" />
-
-</div>
+<hr>
